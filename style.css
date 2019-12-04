@@ -1,11 +1,7 @@
-h1 {
-    color:red;
-    background: green;
-}
-p {
-    color: red;
-    background: green;
-}
 body {
-    background: yellow;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+
+    background: url("img/crocodile.jpg") no-repeat 50% 0
 }
