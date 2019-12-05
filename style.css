@@ -2,6 +2,15 @@ body {
     padding: 0;
     font-family: "Arial", sans-serif;
     font-size: 20px;
+    display: flex;
 
-    background: url("img/crocodile.jpg") no-repeat 50% 0
+    /* background: url("img/crocodile.jpg") no-repeat 50% 0; */
+}
+.body-overlay {
+    background: #00000078;
+    width: 50%;
+    padding: 30px;
+}
+img {
+    width: 40%;
 }
